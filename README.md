@@ -1,6 +1,4 @@
-# Symfony DDD Skeleton
-
-[[_TOC_]]
+Spotify_App
 
 ## 1 - Start a new project
 ### 1.1 - Requirements
